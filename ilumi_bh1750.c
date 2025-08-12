@@ -64,7 +64,7 @@ int main()
     // Inicializa o sensor de luz BH1750
     bh1750_power_on(I2C_PORT);
 
-    char str_lux[5];  // Buffer para armazenar a string
+    char str_lux[10];  // Buffer para armazenar a string
     
     bool cor = true;
     while (1)
