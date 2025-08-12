@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\BDL\SDK\Luminosidade_F\bmp280_aht20Disp\CMakeFiles\dc84395acaa309c0b112527efde611df\bs2_default.bin.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\BDL\SDK\Luminosidade_F\bmp280_aht20Disp\CMakeFiles\dce930d6708c116b4898c0e19f625224\bs2_default_bin.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\wilto\.pico-sdk\sdk\2.1.0\src\rp2040\boot_stage2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\BDL\SDK\Luminosidade_F\bmp280_aht20Disp\pico-sdk\src\rp2040\boot_stage2\CMakeFiles\bs2_default_bin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7BDB4B42-C976-313B-AAD5-6314EA561CB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
